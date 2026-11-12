@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Junction .cursor -> .claude (skills są w .claude/)
+.cursor/
+
+# Śmieci badawcze / tymczasowe
+movie-server/_*.png
+movie-server/_*.txt
+movie-server/_*.js
+movie-server/_*.py
+movie-server/index-*.js
+movie-server/config.js
