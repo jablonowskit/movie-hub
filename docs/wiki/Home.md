@@ -6,4 +6,4 @@ Dokumentacja techniczna repo: userscripty Tampermonkey oraz serwer **movie-serve
 - [Endpointy API](Endpointy-API)
 - [Userscripty](Userscripty)
 
-Ogólny opis i strukturę repo znajdziesz w [README](https://github.com/jablonowskit/movie-hub2#readme).
+Ogólny opis i strukturę repo znajdziesz w [README](https://github.com/jablonowskit/movie-hub#readme).

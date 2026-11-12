@@ -2,7 +2,7 @@
 
 Userscripty Tampermonkey oraz lekki serwer **movie-server** do szukania filmów i seriali oraz otwierania embedów playerów. Działa na desktopie i na telefonie (Firefox Android).
 
-Szczegóły techniczne i API: [wiki](https://github.com/jablonowskit/movie-hub2/wiki).
+Szczegóły techniczne i API: [wiki](https://github.com/jablonowskit/movie-hub/wiki).
 
 ## Co tu jest
 
@@ -71,7 +71,7 @@ Instalacja: Tampermonkey (Firefox desktop lub Android). Na routerze skrypt jest 
 ## Struktura
 
 ```
-movie-hub2/
+movie-hub/
 ├── panscan-zoom-video.user.js
 ├── movie-server/
 │   ├── server.py          # HTTP API i serwowanie interfejsu
